@@ -1,2 +1,2 @@
 # pdf2image
-Python code for pdf to image file conversion
+Python code for converting  .pdf file  to .png/.jpg file 
